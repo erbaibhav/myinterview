@@ -110,7 +110,7 @@ export default function CompanyQuestionsPage() {
   return (
     <>
       <Head>
-        <title>{company.name} Questions - LeetTracker</title>
+        <title>{company.name} Questions - MRBInterviews</title>
       </Head>
       <div className="container">
         <Link href="/dashboard" className="back-link">

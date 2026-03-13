@@ -53,7 +53,7 @@ export default function DashboardPage() {
   return (
     <>
       <Head>
-        <title>Dashboard - LeetTracker</title>
+        <title>Dashboard - MRBInterviews</title>
       </Head>
       <div className="container">
         <div className="dashboard-header">

@@ -41,7 +41,7 @@ export default function SignupPage() {
   return (
     <>
       <Head>
-        <title>Sign Up - LeetTracker</title>
+        <title>Sign Up - MRBINterviews</title>
       </Head>
       <div className="auth-page">
         <div className="auth-card">

@@ -40,7 +40,7 @@ export default function LoginPage() {
   return (
     <>
       <Head>
-        <title>Login - LeetTracker</title>
+        <title>Login - MRBInterviews</title>
       </Head>
       <div className="auth-page">
         <div className="auth-card">

@@ -20,7 +20,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>LeetTracker</title>
+        <title>MRBInterviews</title>
         <meta name="description" content="Track your LeetCode interview prep" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />

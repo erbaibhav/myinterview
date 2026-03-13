@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="navbar-inner">
         <Link href="/dashboard" className="navbar-brand">
-          LeetTracker
+          MRBInterviews
         </Link>
         <div className="navbar-right">
           <span className="navbar-user">Hi, {user.name}</span>
