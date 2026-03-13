@@ -1,0 +1,21 @@
+ID,URL,Title,Difficulty,Acceptance %,Frequency %
+1,https://leetcode.com/problems/two-sum,Two Sum,Easy,57.1%,92.0%
+2,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,40.5%,85.0%
+3,https://leetcode.com/problems/merge-intervals,Merge Intervals,Medium,47.7%,95.0%
+4,https://leetcode.com/problems/subarray-sum-equals-k,Subarray Sum Equals K,Medium,43.5%,90.2%
+5,https://leetcode.com/problems/binary-tree-right-side-view,Binary Tree Right Side View,Medium,63.0%,82.5%
+6,https://leetcode.com/problems/product-of-array-except-self,Product of Array Except Self,Medium,65.8%,78.0%
+7,https://leetcode.com/problems/move-zeroes,Move Zeroes,Easy,61.6%,88.3%
+8,https://leetcode.com/problems/longest-substring-without-repeating-characters,Longest Substring Without Repeating Characters,Medium,35.5%,85.0%
+9,https://leetcode.com/problems/3sum,3Sum,Medium,34.6%,80.5%
+10,https://leetcode.com/problems/trapping-rain-water,Trapping Rain Water,Hard,62.2%,75.2%
+11,https://leetcode.com/problems/minimum-window-substring,Minimum Window Substring,Hard,42.9%,72.0%
+12,https://leetcode.com/problems/group-anagrams,Group Anagrams,Medium,68.4%,70.3%
+13,https://leetcode.com/problems/number-of-islands,Number of Islands,Medium,59.1%,88.5%
+14,https://leetcode.com/problems/add-two-numbers,Add Two Numbers,Medium,44.0%,65.0%
+15,https://leetcode.com/problems/word-break,Word Break,Medium,46.2%,78.5%
+16,https://leetcode.com/problems/random-pick-with-weight,Random Pick with Weight,Medium,46.2%,92.0%
+17,https://leetcode.com/problems/nested-list-weight-sum,Nested List Weight Sum,Medium,85.0%,70.0%
+18,https://leetcode.com/problems/verifying-an-alien-dictionary,Verifying an Alien Dictionary,Easy,52.5%,85.0%
+19,https://leetcode.com/problems/diameter-of-binary-tree,Diameter of Binary Tree,Easy,60.8%,75.5%
+20,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Lowest Common Ancestor of a Binary Tree,Medium,62.5%,82.0%
